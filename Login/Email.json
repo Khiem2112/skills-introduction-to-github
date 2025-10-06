@@ -1,0 +1,30 @@
+[
+    {
+        "username": "alice",
+        "email": "alice@gmail.com",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+        "username": "bob",
+        "email": "bob@gmail.com",
+        "password": "456"
+    },
+    {
+        "username": "sd",
+        "email": "hihi@gmail.com",
+        "password": "86c7c2b542904358041f09d31faeda5f923cafeeb879ece9c34d1bbc8e89fc02",
+        "password_plain": "14789"
+    },
+    {
+        "username": "hello",
+        "email": "hello@gmail.com",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "password_plain": "123"
+    },
+    {
+        "username": "hehe",
+        "email": "123@gmail.com",
+        "password": "0f8ef3377b30fc47f96b48247f463a726a802f62f3faa03d56403751d2f66c67",
+        "password_plain": "125"
+    }
+]
